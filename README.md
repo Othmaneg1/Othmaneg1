@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently a software engineer at Alx based in Morocoo<br>⚡ The way to get started is to quit talking and begin doing
+🌱 I’m currently a software engineer Student at Alx based in Morocoo<br>⚡ The way to get started is to quit talking and begin doing
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
 
 ## 🌐 Socials:
